@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- The only challenge I experienced (other than struggling to grasp a few concepts) was that my buttons kept overlapping with the texts because they required constraints. This was confusing because the video showed that if the button is placed near the edge of the screen, it stays there, but I had to type in the constraints manually. As such, I am still not sure if I was using the arrows right to make button constraints. 
 
 ## License
 
